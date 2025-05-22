@@ -80,6 +80,4 @@ yarn build
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/SmartSolar](https://github.com/yourusername/SmartSolar)
+Project Link: [https://github.com/SHIVANSHUDAHIYA/SmartSolar](https://github.com/SHIVANSHUDAHIYA/SmartSolar)
