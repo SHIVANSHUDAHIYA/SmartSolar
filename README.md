@@ -2,6 +2,8 @@
 
 SmartSolar is a modern web application built with React and Vite that helps users manage and monitor solar energy systems. The application provides an intuitive interface for tracking solar panel performance, energy consumption, and environmental impact.
 
+![Smart Solar Demo](Project_demo.gif)
+
 ## Features
 
 - Real-time solar panel monitoring
